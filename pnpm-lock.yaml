@@ -44,6 +44,9 @@ importers:
 
   shell:
     dependencies:
+      html-webpack-plugin:
+        specifier: ^5.6.3
+        version: 5.6.3(webpack@5.99.9)
       react:
         specifier: ^19.1.0
         version: 19.1.0
